@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Weightandsee</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="fb">1717646721780864</string>
+    <string name="title_activity_maps">Map</string>
+
+</resources>
