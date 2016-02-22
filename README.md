@@ -12,7 +12,7 @@ We used many APIs, such as the Google Places API, JavaMail API, Firebase, Parse,
 Challenges we ran into
 We ran into problems with Google's fraud detection and syncing Firebase and Parse together.
 
-Accomplishments that we're proud of
+Accomplishments that we're proud oft
 We are proud of our ability to take raw data and analyze it in such a way that the user can make informed decisions to better their lifestyle.
 
 What's next for Weight and Watch
