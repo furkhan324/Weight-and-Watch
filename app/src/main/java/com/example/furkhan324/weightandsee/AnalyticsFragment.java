@@ -98,7 +98,7 @@ public class AnalyticsFragment extends Fragment implements OnChartValueSelectedL
         bChart.setDrawGridBackground(false);
         // mChart.setDrawYLabels(false);
 
-        //mTf = Typeface.createFromAsset(getAssets(), "OpenSans-Regular.ttf");
+        ///mTf = Typeface.createFromAsset(getAssets(), "OpenSans-Regular.ttf");
 
         XAxis xAxis = bChart.getXAxis();
         xAxis.setPosition(XAxis.XAxisPosition.BOTTOM);
