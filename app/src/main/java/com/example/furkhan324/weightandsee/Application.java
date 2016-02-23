@@ -5,9 +5,7 @@ import com.facebook.FacebookSdk;
 import com.firebase.client.Firebase;
 import com.parse.Parse;
 
-/**
- * Created by furkhan324 on 2/17/16.
- */
+
 public class Application extends android.app.Application {
 
 
