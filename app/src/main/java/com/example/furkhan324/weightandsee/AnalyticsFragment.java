@@ -102,7 +102,7 @@ public class AnalyticsFragment extends Fragment implements OnChartValueSelectedL
 
         XAxis xAxis = bChart.getXAxis();
         xAxis.setPosition(XAxis.XAxisPosition.BOTTOM);
-     //   xAxis.setTypeface(mTf);
+     // /  xAxis.setTypeface(mTf);
         xAxis.setDrawGridLines(false);
         xAxis.setSpaceBetweenLabels(2);
 
