@@ -70,7 +70,7 @@ public class AnalyticsFragment extends Fragment implements OnChartValueSelectedL
     private float[] yData = { 0,0,0};
     private String[] xData = { "Breakfast","Lunch", "Dinner" };
     public AnalyticsFragment() {
-        // Required empty public constructor
+    
     }
 
 
