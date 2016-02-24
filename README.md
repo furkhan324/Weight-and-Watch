@@ -6,7 +6,7 @@ Obesity continues to plague our country, yet the present system is woefully inad
 What it does
 
 “Weight and Watch” is a program that utilizes GPS technology to determine whether you have been in close proximity to a fast food chain or restaurant for a certain amount of time, and then logs and analyzes data. After a month, it generates a report detailing the number of times you ate outside, and provides you with meaningful analysis through multiple charts on how best to create an action plan to live healthier. Unlike any other weight loss programs in the market, (eg. NutriSystem) the initial stage of the process requires practically no user input. You can access your information through an Android device or Web Platform.
-
+kl;gem
 How we built it
 We used many APIs, such as the Google Places API, JavaMail API, Firebase, Parse, and Facebook SDK to make sure that we could collect, sort, and analyze the data and send it to the user in an efficient manner. The Google Places API powers the end-to-end automation of the app, which will be connected to your Facebook account. We also used libraries such as d3.js and flot.js to display data in an aesthetically pleasing and informative manner.
 
