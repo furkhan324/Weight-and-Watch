@@ -4,7 +4,7 @@ Inspiration
 Obesity continues to plague our country, yet the present system is woefully inadequate. Current solutions focus on devising the best diet plan or most nutritious meal. However, the fundamental flaw with this approach is that we have enough diet plans, but we’re making the choice to adopt these plans far too late. We wanted to create a product that would revolutionize the struggle against obesity.
 
 What it does
-lekwgrm
+
 “Weight and Watch” is a program that utilizes GPS technology to determine whether you have been in close proximity to a fast food chain or restaurant for a certain amount of time, and then logs and analyzes data. After a month, it generates a report detailing the number of times you ate outside, and provides you with meaningful analysis through multiple charts on how best to create an action plan to live healthier. Unlike any other weight loss programs in the market, (eg. NutriSystem) the initial stage of the process requires practically no user input. You can access your information through an Android device or Web Platform.
 
 How we built it
