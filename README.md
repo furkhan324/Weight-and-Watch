@@ -1,7 +1,7 @@
 # weightandsee
 Demo: <a href="https://www.youtube.com/watch?v=KLrA3XoMxEw">https://www.youtube.com/watch?v=KLrA3XoMxEw</a>
 Inspiration
-Obesity continues to plague our country, yet the present system is woefully inadequate. Current solutions focus on devising the best diet plan or most nutritious meal. However, the fundamental flaw with this approach is that we have enough diet plans, but we’re making the choice to adopt these plans far too late. We wanted to create a product that would revolutionize the struggle against obesity.
+Obesity continues to plague our country, yet the present system is woefully inadequate. Current solutions focus on devising the best diet plan or most nutritious meal. However, the fundamental flaw with this approach is that we have enough diet plans, but we’re making the choice to adopt these plans far too late. We wanted to create a product that would revolutionize the struggle against obesity.g
 
 What it does
 
